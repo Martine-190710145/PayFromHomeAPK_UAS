@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Paid/PayFromHome/app/src/main/res/layout/activity_electricity.xml" value="0.24166666666666667" />
+        <entry key="..\:/Paid/PayFromHome/app/src/main/res/layout/activity_login.xml" value="0.184375" />
+        <entry key="..\:/Paid/PayFromHome/app/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
+        <entry key="..\:/Paid/PayFromHome/app/src/main/res/layout/activity_profile.xml" value="0.32037037037037036" />
+        <entry key="..\:/Paid/PayFromHome/app/src/main/res/layout/activity_register.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/yuda/Downloads/PayFromHome/app/src/main/res/layout/activity_electricity.xml" value="0.1" />
+        <entry key="..\:/Users/yuda/Downloads/PayFromHome/app/src/main/res/layout/activity_history.xml" value="0.1272644927536232" />
+        <entry key="..\:/Users/yuda/Downloads/PayFromHome/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/yuda/Downloads/PayFromHome/app/src/main/res/layout/activity_register.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/yuda/Downloads/PayFromHome/app/src/main/res/layout/form_data.xml" value="0.25" />
+        <entry key="..\:/Users/yuda/Downloads/PayFromHome/app/src/main/res/layout/transaction_item.xml" value="0.1" />
+        <entry key="..\:/Users/yuda/Downloads/PayFromHome/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio java home" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

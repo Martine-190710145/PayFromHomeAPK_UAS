@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">PayFromHome</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZmluZm9vdCIsImEiOiJja3V0eDNia3kxNjBjMndvZGFnMzhlaGlhIn0.t-DkaEwxTNYjmcQCb1Y8xQ</string>
+    <string name="developed_by">Developed by</string>
+    <string name="payfromhome_team">PayFromHome Team</string>
+    <string name="temukan_kami">Temukan Kami</string>
+    <string name="transfer_bank">Transfer Bank</string>
+    <string name="saldo">Saldo</string>
+    <string name="mohon_lengkapi_form">Mohon lengkapi form</string>
+    <string name="saldo_tidak_cukup">Saldo tidak mencukupi!</string>
+    <string name="channel_name">New notification</string>
+    <string name="channel_desc">Device to devie notification</string>
+    <string name="judul_notif">Selamat!</string>
+    <string name="isi_notif">Transaksi anda berhasil!</string>
+    <string name="username_dan_password_tidak_boleh_kosong">Username dan password tidak boleh kosong!</string>
+    <string name="login_berhasil">Login berhasil!</string>
+    <string name="username_atau_password_salah">Username atau password salah!</string>
+    <string name="registrasi_berhasil">Registrasi berhasil!</string>
+    <string name="id">ID</string>
+    <string name="nominal">Nominal</string>
+    <string name="pembayaran_sukses">Pembayaran Sukses!</string>
+    <string name="buka_riwayat">Buka Riwayat</string>
+    <string name="home">Home</string>
+    <string name="listrik">Listrik</string>
+    <string name="air">Air</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="about_us">About Us</string>
+    <string name="keluar">Keluar</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="bayar">Bayar</string>
+    <string name="metode_bayar">Metode Bayar</string>
+    <string name="profil">Profil</string>
+    <string name="password_baru">Password Baru</string>
+    <string name="save">Save</string>
+    <string-array name="planets_array">
+        <item>LISTRIK</item>
+        <item>AIR</item>
+    </string-array>
+    <string-array name="pay_array">
+        <item>TRANSFER</item>
+        <item>SALDO</item>
+    </string-array>
+</resources>
